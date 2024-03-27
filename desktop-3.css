@@ -1,0 +1,354 @@
+.oriizonte-1-icon2,
+.untitled-design-1 {
+  position: relative;
+  max-width: 100%;
+  object-fit: cover;
+}
+.oriizonte-1-icon2 {
+  width: 365px;
+  height: 149px;
+}
+.untitled-design-1 {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  max-height: 100%;
+}
+.untitled-design-1-wrapper {
+  height: 582px;
+  width: 552px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 52px 0 0;
+  box-sizing: border-box;
+  min-width: 552px;
+  max-width: 100%;
+}
+.enter-email-address-label-child {
+  width: 585px;
+  height: 640px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-sandybrown);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.login1 {
+  margin: 0;
+  height: 65px;
+  width: 245px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.iabcorizorizzontegmailcom-labe {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 53px var(--padding-mini);
+  font-size: var(--font-size-17xl);
+}
+.enter-e-mail-address1 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.minimum-length-indicator-child,
+.submit-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.submit-button {
+  width: 323px;
+  padding: 0 var(--padding-xl);
+  max-width: 100%;
+}
+.minimum-length-indicator-child {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-darkgray);
+  align-self: stretch;
+  height: 60px;
+  border-radius: var(--br-31xl);
+  padding: var(--padding-xs) var(--padding-6xl);
+  font-family: var(--font-alata);
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  min-width: 250px;
+  z-index: 1;
+}
+.password1 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.login-title {
+  width: 355px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.f-r-a-m-e-child,
+.f-r-a-m-e2,
+.minimum-length-indicator {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.f-r-a-m-e-child {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-darkgray);
+  height: 60px;
+  border-radius: var(--br-31xl);
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-xl) var(--padding-mini);
+  box-sizing: border-box;
+  font-family: var(--font-alata);
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  min-width: 250px;
+  z-index: 1;
+}
+.f-r-a-m-e2,
+.minimum-length-indicator {
+  flex-direction: column;
+  gap: 13px;
+  max-width: 100%;
+}
+.minimum-length-indicator {
+  gap: 22px;
+}
+.terms-and-policies-label {
+  width: 30px;
+  height: 27px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-darkgray);
+  z-index: 1;
+}
+.terms-and-policies-label-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 0 0;
+}
+.i-agree-with {
+  height: 78px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 301px;
+  max-width: 100%;
+  z-index: 1;
+}
+.agree-terms-checkbox,
+.submit-button-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.submit-button-label {
+  flex: 1;
+  gap: 9px;
+}
+.agree-terms-checkbox {
+  align-self: stretch;
+  padding: 0 0 4px 8px;
+  box-sizing: border-box;
+}
+.submit-button-background-child {
+  height: 60px;
+  width: 370px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-orange);
+  display: none;
+  max-width: 100%;
+}
+.submit1 {
+  height: 55px;
+  width: 228px;
+  position: relative;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-alata);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.f-r-a-m-e3,
+.submit-button-background {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.submit-button-background {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs) var(--padding-base) 0;
+  background-color: var(--color-orange);
+  width: 370px;
+  border-radius: var(--br-31xl);
+  z-index: 1;
+}
+.submit-button-background:hover {
+  background-color: var(--color-chocolate);
+}
+.f-r-a-m-e3 {
+  align-self: stretch;
+  padding: 0 62px;
+}
+.enter-email-address-label {
+  flex: 1;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-sandybrown);
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: var(--padding-23xl) var(--padding-17xl) var(--padding-9xl)
+    var(--padding-18xl);
+  gap: 36px;
+  min-width: 380px;
+  max-width: 100%;
+}
+.desktop-3,
+.enter-email-address-label,
+.f-r-a-m-e,
+.f-r-a-m-e1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.f-r-a-m-e1 {
+  flex: 1;
+  flex-direction: row;
+  gap: 124px;
+  max-width: 100%;
+}
+.desktop-3,
+.f-r-a-m-e {
+  box-sizing: border-box;
+}
+.f-r-a-m-e {
+  width: 1387px;
+  flex-direction: row;
+  padding: 0 63px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-alata);
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 182px;
+  gap: 53px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .untitled-design-1 {
+    align-self: stretch;
+    width: auto;
+  }
+  .untitled-design-1-wrapper {
+    flex: 1;
+  }
+  .f-r-a-m-e1 {
+    flex-wrap: wrap;
+    gap: 124px 62px;
+  }
+  .f-r-a-m-e {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .login1,
+  .submit1 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .untitled-design-1-wrapper {
+    padding-top: var(--padding-15xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .submit-button-label {
+    flex-wrap: wrap;
+  }
+  .f-r-a-m-e3 {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .enter-email-address-label {
+    gap: 18px 36px;
+    padding-top: var(--padding-8xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .f-r-a-m-e1 {
+    gap: 124px 31px;
+  }
+  .desktop-3 {
+    gap: 26px 53px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .login1 {
+    font-size: var(--font-size-3xl);
+  }
+  .iabcorizorizzontegmailcom-labe {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .enter-e-mail-address1,
+  .i-agree-with,
+  .password1 {
+    font-size: var(--font-size-lgi);
+  }
+  .submit1 {
+    font-size: var(--font-size-3xl);
+  }
+  .f-r-a-m-e1 {
+    gap: 124px 15px;
+  }
+}
